@@ -10,7 +10,7 @@ Electrical Engineer | Automation Enthusiast |
 - reach me @nrupal_akolkar on X.com or LinkedIn: www.linkedin/com/in/nrupalakolkar
 - knowhow includes a domain expertise in electrical engineering, advanced business analytics, finance and startegy
 - hobbies: photography & hiking.
-- personal brags: yoga enthuciast and physical trainer 
+- gtk: yoga enthuciast and physical trainer 
 <!--
 **nrupala/nrupala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
