@@ -1,27 +1,52 @@
+# Nrupal Akolkar
 
-# Hi, I'm Nrupal 👋
-Electrical Engineer | Automation Enthusiast | 
-- 🔧 Building real-world systems
-- ⚡ Love clean, maintainable code
-- 📚 Always learning something new
-- Currently working on Predictive Dashboard Development Studio | Prediction Engines | Localised Secure Consciousness core
-- I collaborate to work on No Code, Code based AI / ML / Automation workflows
-- Open to help and get help on any of my projects that you find interesting.  
-- reach me @nrupal_akolkar on X.com or LinkedIn: www.linkedin/com/in/nrupalakolkar
-- knowhow includes a domain expertise in electrical engineering, advanced business analytics, finance and startegy
-- hobbies: photography & hiking.
-- gtk: yoga enthuciast and physical trainer 
-<!--
-**nrupala/nrupala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Systems engineer building sovereign AI infrastructure.**
 
-Here are some ideas to get you started:
+P.Eng. with 22+ years in safety-critical energy systems (CNRL, Shell Canada).
+Building open-source tools that give individuals the analytical power institutions keep for themselves.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### What I'm Building
+
+| Project | What It Is | Tech |
+|---------|-----------|------|
+| [**KalaVault**](https://github.com/nrupala/kalavault) | Sovereign personal AI assistant powered by a knowledge graph you own | Python, Neo4j, Ollama, AES-256-GCM |
+| [**PAE**](https://github.com/nrupala/pae) | Personal Analytics Engine - Aladdin-parity financial analytics, zero-knowledge | Rust, Python, Plotly, Skfolio |
+| [**Guardian Mesh**](https://github.com/nrupala/guardian-mesh) | AI security governance - 5-enclave deterministic enforcement, formally verified | Rust, gRPC, ML-KEM, Lean 4 |
+| [**SAIC**](https://github.com/nrupala/saic) | Sovereign AI Core - deterministic reasoning, zero neural networks | Rust, Python, Z3, Neo4j, OWL 2 |
+| [**Research Analyst**](https://github.com/nrupala/research-analyst) | Automated multi-source research and report generation | Python, FastAPI, Capacitor |
+
+All projects: AGPL-3.0. Self-hosted. Zero-knowledge encryption. User-owned data.
+
+---
+
+### Design Principles
+
+- **Tool calculates, user decides.** Technology should make people more capable, not more dependent.
+- **Privacy by architecture, not policy.** If the system cannot access your data, no policy change can betray you.
+- **Honesty over confidence.** VERIFIED or OUT OF SCOPE. Never hallucinate. Never guess.
+- **Open source is the methodology.** The code IS the audit trail.
+
+---
+
+### Background
+
+- Electrical Engineer (P.Eng.), APEGA Member
+- Canadian Natural Resources (CNRL) - 2017 to present
+- Shell Canada Energy - 2014 to 2017
+- B.Eng. | MBA | Harvard Business School Online | IIM Calcutta
+- Calgary, Alberta, Canada
+
+---
+
+### Connect
+
+- Web: [nrupalakolkar.com](https://nrupalakolkar.com)
+- GitHub: [@nrupala](https://github.com/nrupala)
+- LinkedIn: [nrupalakolkar](https://linkedin.com/in/nrupalakolkar)
+- Twitter: [@nrupal_akolkar](https://twitter.com/nrupal_akolkar)
+
+---
+
+*Building tools that respect the people who use them.*
