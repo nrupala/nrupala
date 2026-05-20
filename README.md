@@ -11,7 +11,7 @@ Building open-source tools that bring institutional-grade analytical power to ev
 
 | Project | What It Is | Tech |
 |---------|-----------|------|
-| [**KalaVault**](https://github.com/nrupala/kalavault) | Personal AI assistant powered by a knowledge graph you own | Python, Neo4j, Ollama, AES-256-GCM |
+| [**KalaBodha**](https://github.com/nrupala/kalabodha) | Personal AI assistant powered by a knowledge graph you own — Dimensional Intelligence | Python, Neo4j, Ollama, AES-256-GCM |
 | [**PAE**](https://github.com/nrupala/pae) | Personal Analytics Engine - institutional-grade financial analytics for individuals | Rust, Python, Plotly, Skfolio |
 | [**Guardian Mesh**](https://github.com/nrupala/guardian-mesh) | AI security governance - 5-enclave deterministic enforcement, formally verified | Rust, gRPC, ML-KEM, Lean 4 |
 | [**SAIC**](https://github.com/nrupala/saic) | Sovereign AI Core - deterministic reasoning that proves its answers | Rust, Python, Z3, Neo4j, OWL 2 |
@@ -54,7 +54,7 @@ Beyond models and agents - toward AI that proves its answers, knows its limits, 
 
 ### Connect
 
-- Web: [nrupalakolkar.com](https://nrupalakolkar.com)
+- Web: [kalabodha.com](https://kalabodha.com)
 - GitHub: [@nrupala](https://github.com/nrupala)
 - LinkedIn: [nrupalakolkar](https://linkedin.com/in/nrupalakolkar)
 - Twitter: [@nrupal_akolkar](https://twitter.com/nrupal_akolkar)
