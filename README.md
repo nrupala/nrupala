@@ -1,9 +1,11 @@
 # Nrupal Akolkar
 
-**Systems engineer building trustworthy, verifiable AI for individuals.**
+### **Electrical and Systems engineer building trustworthy, verifiable AI.**
 
-P.Eng. with 24+ years in safety-critical energy systems (CNRL, Shell Canada), electrical power generation, distribution and utilization. 
-Curious and motivated to make a difference and creating value by developing products and services that benefit humanity.
+#### P.Eng. with 24+ years in safety-critical energy systems (CNRL, Shell Canada), electrical power generation, distribution and utilization. 
+##### Curious and motivated to make a difference and creating value by developing products and services that benefit humanity.
+
+---
 Building open-source tools that bring institutional-grade analytical power to everyone.
 
 ---
@@ -30,6 +32,7 @@ Beyond models and agents - toward AI that proves its answers, knows its limits, 
 - **Verifiable.** Open source. Auditable audit trail. The code IS the methodology.
 - **Viable.** Runs on your hardware. Works offline. No subscription required for full functionality.
 
+
 ---
 
 ### Design Principles
@@ -38,12 +41,22 @@ Beyond models and agents - toward AI that proves its answers, knows its limits, 
 - **Privacy by architecture.** Your data is encrypted with keys only you hold. This is how the system is built, not a policy that could change.
 - **Honesty over confidence.** VERIFIED or OUT OF SCOPE. Never a confident guess.
 - **Open source is the methodology.** The code IS the audit trail.
+  
+---
+##### How to design systems that reach their outcome on purpose, not by luck — a worked theory of convergent transformation, from control loops to financial markets. Download free my book on this topic authored in July 2026: [Output Convergence System](https://aimlds.org/books) 
+##### Relevant blog: [Developing knowledge on theory and practices of AI ML DS](https://devinfo.dev) Mirror (https://aimlds.org)
+---
+##### Blog on Power System and Smart Grids: [Onsmartgrid](https://onsmartgrid.com) 
+##### Educational Product on market research: [Research Analyst](https://ra.aimlds.org)
+##### Educational product on Budget Planning and Macro economics: [BEE](https://bee.aimlds.org)
+##### Encrypted Zero Leakage Notes Taking App: [CipherNotes](https://notes.devinfo.dev/)
+---
 
 ---
 
 ### Background
 
-22 years of building systems where accuracy and safety are non-negotiable. The discipline that keeps a power grid running is the same discipline that makes an AI system trustworthy.
+24+ years of building systems where accuracy and safety are non-negotiable. The discipline that keeps a power grid running is the same discipline that makes an AI system trustworthy.
 
 - Electrical Engineer (P.Eng.), APEGA Member
 - Canadian Natural Resources (CNRL) - 2017 to present
@@ -55,7 +68,7 @@ Beyond models and agents - toward AI that proves its answers, knows its limits, 
 
 ### Connect
 
-- Web: [kalabodha.com](https://kalabodha.com)
+- Web: [nrupalakolkar.com](https://nrupalakolkar.com)
 - GitHub: [@nrupala](https://github.com/nrupala)
 - LinkedIn: [nrupalakolkar](https://linkedin.com/in/nrupalakolkar)
 - Twitter: [@nrupal_akolkar](https://twitter.com/nrupal_akolkar)
