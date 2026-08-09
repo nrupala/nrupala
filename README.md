@@ -3,7 +3,7 @@
 **Systems engineer building trustworthy, verifiable AI for individuals.**
 
 P.Eng. with 24+ years in safety-critical energy systems (CNRL, Shell Canada), electrical power generation, distribution and utilization. 
-Curious and motivated to make a difference and creating value by developing products and services that benefits humanity.
+Curious and motivated to make a difference and creating value by developing products and services that benefit humanity.
 Building open-source tools that bring institutional-grade analytical power to everyone.
 
 ---
