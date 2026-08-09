@@ -43,8 +43,9 @@ Beyond models and agents - toward AI that proves its answers, knows its limits, 
 - **Open source is the methodology.** The code IS the audit trail.
   
 ---
-##### How to design systems that reach their outcome on purpose, not by luck — a worked theory of convergent transformation, from control loops to financial markets. Download free my book on this topic authored in July 2026: [Output Convergence System](https://aimlds.org/books) 
-##### Relevant blog: [Developing knowledge on theory and practices of AI ML DS](https://devinfo.dev) Mirror (https://aimlds.org)
+##### How to design systems that reach their outcome on purpose, not by luck — a worked theory of convergent transformation, from control loops to financial markets. 
+##### Download my book on this topic: [Output Convergence System](https://aimlds.org/books) 
+##### Relevant blog: [Devinfo.dev](https://devinfo.dev) Mirrored on [AIMLDS](https://aimlds.org)
 ---
 ##### Blog on Power System and Smart Grids: [Onsmartgrid](https://onsmartgrid.com) 
 ##### Educational Product on market research: [Research Analyst](https://ra.aimlds.org)
