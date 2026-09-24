@@ -2,7 +2,7 @@
 
 ### **Systems theorist · P.Eng. building trustworthy, verifiable AI.**
 
-Systems-thinking application specialist and finisher — from first principles to working, open-source systems.
+Systems-thinking application specialist — I bring ideas from first principles to working, open-source systems.
 
 #### P.Eng. with 24+ years in safety-critical energy systems (CNRL, Shell Canada), electrical power generation, distribution and utilization. 
 ##### Curious and motivated to make a difference and creating value by developing products and services that benefit humanity.
