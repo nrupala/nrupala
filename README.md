@@ -46,7 +46,7 @@ Beyond models and agents - toward AI that proves its answers, knows its limits, 
   
 ---
 ##### How to design systems that reach their outcome on purpose, not by luck — a worked theory of convergent transformation, from control loops to financial markets. 
-##### Download my book on this topic: [Output Convergence System](https://aimlds.org/books) 
+##### Download my book on this topic: [Outcome Convergence Systems](https://aimlds.org/books) 
 ##### Relevant blog: [Devinfo.dev](https://devinfo.dev) Mirrored on [AIMLDS](https://aimlds.org)
 ---
 ##### Blog on Power System and Smart Grids: [Onsmartgrid](https://onsmartgrid.com) 
