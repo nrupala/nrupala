@@ -24,6 +24,7 @@ Building open-source tools that bring institutional-grade analytical power to ev
 | [**PAE**](https://github.com/nrupala/pae) | Personal Analytics Engine — institutional-grade financial analytics for individuals | Rust, Python, Plotly, Skfolio |
 | [**RelaySim**](https://github.com/nrupala/relay_sim) | Relay-fault simulation engine for power-system protection training | TypeScript, React, Vite |
 | [**LocalForge**](https://github.com/nrupala/LocalForge) | Local-first AI dev platform — VS Code extension + CLI + Web UI, multi-agent workflows | TypeScript |
+| [**TransformationSpine**](https://github.com/nrupala/TransformationSpine) | Provider-neutral transformation spine — context lifecycle, outcome convergence, tamper-evident records | Python, FastAPI, MCP |
 | **VFD Motor Reliability & Asset Care** | In development | — |
 
 All projects: AGPL-3.0. Self-hosted. User-owned data. Encrypted with your keys.
