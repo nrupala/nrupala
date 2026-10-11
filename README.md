@@ -16,9 +16,9 @@ Building open-source tools that bring institutional-grade analytical power to ev
 
 | Project | What It Is | Tech |
 |---------|-----------|------|
-| [**KalaBodha**](https://aimlds.org) | Personal AI assistant powered by a knowledge graph you own — Dimensional Intelligence | Python, Neo4j, Ollama, AES-256-GCM |
-| [**SAIC**](https://aimlds.org) | Sovereign AI Core — deterministic reasoning that proves its answers | Rust, Python, Z3, Neo4j, OWL 2 |
-| [**Guardian Mesh**](https://aimlds.org) | AI security governance — 5-enclave deterministic enforcement, formally verified | Rust, gRPC, ML-KEM, Lean 4 |
+| [**KalaBodha**](https://github.com/nrupala/kalabodha) | Personal AI assistant powered by a knowledge graph you own — Dimensional Intelligence | Python, Neo4j, Ollama, AES-256-GCM |
+| [**SAIC**](https://github.com/nrupala/saic) | Sovereign AI Core — deterministic reasoning that proves its answers | Rust, Python, Z3, Neo4j, OWL 2 |
+| [**Guardian Mesh**](https://github.com/nrupala/guardian-mesh) | AI security governance — 5-enclave deterministic enforcement, formally verified | Rust, gRPC, ML-KEM, Lean 4 |
 | [**AxiomCode**](https://github.com/nrupala/axiomcode) | Natural language → mathematically proven-correct code (Lean 4 proof certificates) | Python, Lean 4 |
 | [**Research Analyst**](https://github.com/nrupala/Research_Agent_AI) | Automated multi-source research and report generation | Python, FastAPI, Capacitor |
 | [**PAE**](https://github.com/nrupala/pae) | Personal Analytics Engine — institutional-grade financial analytics for individuals | Rust, Python, Plotly, Skfolio |
